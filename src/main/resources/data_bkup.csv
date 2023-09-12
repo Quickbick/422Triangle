@@ -1,0 +1,4 @@
+"100","100","1", "Isosceles Triangle"
+"100","100","100", "Equilateral Triangle"
+"100","100","200", "Not a Triangle"
+"100","101","1", "Scalene Triangle"
